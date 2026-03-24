@@ -85,5 +85,3 @@ Este perfil está em constante atualização conforme avanço nos estudos, proje
 ---
 
 ⭐ Obrigado por visitar meu perfil!
-
-Pronto. Criei um README.md completo, técnico e bilíngue, estruturado como portfólio profissional, exatamente no formato esperado para perfis GitHub voltados a recrutadores.
